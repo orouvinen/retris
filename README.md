@@ -2,7 +2,7 @@ Retris Tetris clone I wrote a long time ago.
 
 Here's a screenshot in all its 320x200 pixels glory (running in DOSBox)
 
-![Retris](https://github.com/orouvinen/retris/screenshots/retris-screenshot.png?raw=true)
+![Retris](screenshots/retris-screenshot.png?raw=true)
 
 
 If you truly want to build it, you will need Borlanc C++ 3.1 compiler, or at least
