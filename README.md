@@ -5,8 +5,8 @@ Here's a screenshot in all its 320x200 pixels glory (running in DOSBox)
 ![Retris](screenshots/retris-screenshot.png?raw=true)
 
 
-If you truly want to build it, you will need Borlanc C++ 3.1 compiler, or at least
-that's what I used back then to compile it.
+If you truly want to build it, you will need Borland C++ compiler, or at least
+that's what I used back then to compile it. 
 Running COMPILE.BAT should do the trick.
 
 Included is a VGA mode 13h graphics library I wrote in assembly, because it was
